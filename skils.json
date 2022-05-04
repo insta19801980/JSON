@@ -1,5 +1,5 @@
 {
-	GIT
-	VS code
-	Postman
+	"string":"GIT"
+	"string":"VS code"
+	"string":"Postman"
 }
